@@ -1,3 +1,5 @@
+#to run this model first create the Ml model to detect fire using the colab notebook provided in the repository 
+
 from ultralytics import YOLO
 import cvzone
 import cv2
